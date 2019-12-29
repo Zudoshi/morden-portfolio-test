@@ -1,0 +1,15 @@
+{
+  "name": "customline",
+  "version": "1.0.0",
+  "description": "Custom Line - Jerzy Dłużniewski",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Jerzy Dłużniewski",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.13.0",
+    "npm-git-install": "^0.3.0"
+  }
+}

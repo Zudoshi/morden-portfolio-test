@@ -1,0 +1,14 @@
+{
+  "name": "customline",
+  "version": "1.0.0",
+  "description": "Custom Line - Jerzy Dłużniewski",
+  "main": "index.js",
+  "scripts": {
+    "sass": "echo \"Sass odpalony\""
+  },
+  "author": "Jerzy Dłużniewski",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}

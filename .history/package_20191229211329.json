@@ -1,0 +1,14 @@
+{
+  "name": "customline",
+  "version": "1.0.0",
+  "description": "Custom Line - Jerzy Dłużniewski",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jerzy Dłużniewski",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}

@@ -1,0 +1,17 @@
+// Widescreens
+@include mediaXl {}
+
+// Desktpos & Laptops
+@include mediaLg {}
+
+// Tablests & Small Laptops
+@include mediaMd {
+    main {
+        align-items: center;
+        text-align: center;
+
+    }
+}
+
+// Smatphones
+@include mediaSm {}

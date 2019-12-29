@@ -1,0 +1,11 @@
+// Widescreens
+@include mediaXl {}
+
+// Desktpos & Laptops
+@include mediaLg {}
+
+// Tablests & Small Laptops
+@include mediaMd {}
+
+// Smatphones
+@include mediaSm {}

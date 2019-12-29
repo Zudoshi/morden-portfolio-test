@@ -125,11 +125,8 @@
         text-decoration: none;
         @include easeOut;
 
-        &:hover {
-            color: $secondary-color;
-        }
-    }
 
+    }
 }
 
 // Delay each nav item slide by 0.1s

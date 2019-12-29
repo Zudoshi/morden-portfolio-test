@@ -30,6 +30,6 @@ function toggleMenu() {
         navItems.forEach(item => item.classList.remove('show'));
 
         //set Menu State
-        showMenu = false;
+        showMenu = true;
     }
 }

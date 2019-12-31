@@ -30,15 +30,11 @@ $background-opacity: 0.2;
 }
 
 //Set text clolor
-@function set-text-color($color) {
-    @if (lightness($color) > 40) {
-        @return #000;
-    }
 
-    @else {
-        @return #fff;
-    }
+@function set-text-color($color) {
+    @if (lighteness)
 }
+
 
 
 // Media Query Mixins

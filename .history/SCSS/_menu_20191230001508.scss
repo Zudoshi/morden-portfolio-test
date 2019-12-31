@@ -110,7 +110,7 @@
         }
 
         &.current>a {
-            color: $secondary-color;
+            color: set-test-color($primary-color);
         }
     }
 
@@ -121,7 +121,7 @@
         text-transform: uppercase;
         padding: 1rem 0;
         font-weight: 300;
-        color: set-text-color($primary-color);
+        color: set-test-color($primary-color);
         text-decoration: none;
         @include easeOut;
 

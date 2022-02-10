@@ -9,7 +9,7 @@
   "author": "Jerzy Dłużniewski",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "npm-git-install": "^0.3.0"
   }
 }
